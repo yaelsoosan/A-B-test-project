@@ -8,6 +8,7 @@ the project has several files:
 - final_ab_new_users_upd_us.csv - csv file contains all events of the new users within the period from December 7, 2020 to January 1, 2021
 - final_ab_participants_upd_us.csv - csv file contains all test participants
 - ab test project for online store.ipynb - jupyter notebook of the entire project
+- png files for all graphs ploted using plotly
 
 
 due to size issues 2 histograms that were originaly created in plotly express have been re-created in this notebook in matplotlib. there is a copy of the original plotly code near each of the histograms (in mark down comments)
